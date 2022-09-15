@@ -14,9 +14,10 @@ import java.util.Random;
  * @author genivaldo.aanjos
  */
 public class Buscalinear {
-
+    
     public static void main(String[] args) {
     int[]vetor = criarVetor(10);
+    
     
     int indiceEncontrou = buscarValor(5, vetor);
         System.out.println(indiceEncontrou);

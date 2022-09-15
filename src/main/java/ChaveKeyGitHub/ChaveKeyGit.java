@@ -6,7 +6,7 @@ package ChaveKeyGitHub;
 
 /**
  * chave key git sem prazo de vida 
- *    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
+ *    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
  * @author gda_a
  */
 public class ChaveKeyGit {

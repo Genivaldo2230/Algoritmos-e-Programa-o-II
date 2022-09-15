@@ -38,5 +38,6 @@ public class Buscalinear {
             }
         }
         return retorno;
+        System.out.println("");
     }
 }
